@@ -29,7 +29,7 @@ if __name__ == "__main__":
         'd': ['f'],
         'e': [],
         'f': [],
-        "j": []
+        "j": [],
     }
 
     print("Connected Components Count:", connected_components_count(graph))  # Output: 1
